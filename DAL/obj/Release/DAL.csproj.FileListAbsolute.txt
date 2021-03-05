@@ -1,0 +1,9 @@
+C:\Users\My PC\source\repos\PR_QuanLySanPham_DaTang\DAL\bin\Release\DAL.dll
+C:\Users\My PC\source\repos\PR_QuanLySanPham_DaTang\DAL\bin\Release\DAL.pdb
+C:\Users\My PC\source\repos\PR_QuanLySanPham_DaTang\DAL\bin\Release\DTO.dll
+C:\Users\My PC\source\repos\PR_QuanLySanPham_DaTang\DAL\bin\Release\DTO.pdb
+C:\Users\My PC\source\repos\PR_QuanLySanPham_DaTang\DAL\obj\Release\DAL.csprojAssemblyReference.cache
+C:\Users\My PC\source\repos\PR_QuanLySanPham_DaTang\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+C:\Users\My PC\source\repos\PR_QuanLySanPham_DaTang\DAL\obj\Release\DAL.csproj.CopyComplete
+C:\Users\My PC\source\repos\PR_QuanLySanPham_DaTang\DAL\obj\Release\DAL.dll
+C:\Users\My PC\source\repos\PR_QuanLySanPham_DaTang\DAL\obj\Release\DAL.pdb

@@ -1,0 +1,5 @@
+C:\Users\My PC\source\repos\PR_QuanLySanPham_DaTang\DTO\bin\Debug\DTO.dll
+C:\Users\My PC\source\repos\PR_QuanLySanPham_DaTang\DTO\bin\Debug\DTO.pdb
+C:\Users\My PC\source\repos\PR_QuanLySanPham_DaTang\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\My PC\source\repos\PR_QuanLySanPham_DaTang\DTO\obj\Debug\DTO.dll
+C:\Users\My PC\source\repos\PR_QuanLySanPham_DaTang\DTO\obj\Debug\DTO.pdb

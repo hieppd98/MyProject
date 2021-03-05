@@ -1,0 +1,17 @@
+C:\Users\My PC\source\repos\PR_QuanLySanPham_DaTang\GUI\bin\Release\GUI.exe.config
+C:\Users\My PC\source\repos\PR_QuanLySanPham_DaTang\GUI\bin\Release\GUI.exe
+C:\Users\My PC\source\repos\PR_QuanLySanPham_DaTang\GUI\bin\Release\GUI.pdb
+C:\Users\My PC\source\repos\PR_QuanLySanPham_DaTang\GUI\bin\Release\BLL.dll
+C:\Users\My PC\source\repos\PR_QuanLySanPham_DaTang\GUI\bin\Release\DTO.dll
+C:\Users\My PC\source\repos\PR_QuanLySanPham_DaTang\GUI\bin\Release\DAL.dll
+C:\Users\My PC\source\repos\PR_QuanLySanPham_DaTang\GUI\bin\Release\BLL.pdb
+C:\Users\My PC\source\repos\PR_QuanLySanPham_DaTang\GUI\bin\Release\DTO.pdb
+C:\Users\My PC\source\repos\PR_QuanLySanPham_DaTang\GUI\bin\Release\DAL.pdb
+C:\Users\My PC\source\repos\PR_QuanLySanPham_DaTang\GUI\obj\Release\GUI.csprojAssemblyReference.cache
+C:\Users\My PC\source\repos\PR_QuanLySanPham_DaTang\GUI\obj\Release\GUI.Form1.resources
+C:\Users\My PC\source\repos\PR_QuanLySanPham_DaTang\GUI\obj\Release\GUI.Properties.Resources.resources
+C:\Users\My PC\source\repos\PR_QuanLySanPham_DaTang\GUI\obj\Release\GUI.csproj.GenerateResource.cache
+C:\Users\My PC\source\repos\PR_QuanLySanPham_DaTang\GUI\obj\Release\GUI.csproj.CoreCompileInputs.cache
+C:\Users\My PC\source\repos\PR_QuanLySanPham_DaTang\GUI\obj\Release\GUI.csproj.CopyComplete
+C:\Users\My PC\source\repos\PR_QuanLySanPham_DaTang\GUI\obj\Release\GUI.exe
+C:\Users\My PC\source\repos\PR_QuanLySanPham_DaTang\GUI\obj\Release\GUI.pdb
